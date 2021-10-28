@@ -1,7 +1,9 @@
 # 一個有GUI的MCPEDL月份排行爬蟲！
+## A Crawler With Most Popular MCPEDL Addons 
 ![image](https://user-images.githubusercontent.com/37009584/139248063-4dd337b4-12ff-43b5-ac30-6943db3fb5d6.png)
 
 ## 簡介
+### Introduction
 - 只是個小小的練習用專案
 - 可以快速地爬取MCPEDL指定月份的熱門模組
 
