@@ -14,4 +14,4 @@
 
 ## 關於
 - 本專案原始碼可自由使用
-- exe檔案下載 [點我](google.com)
+- exe檔案下載 [點我(MediaFire)](https://www.mediafire.com/file/l6vbn5iupmd0uja/MCPEDL-TOP.exe/file)
