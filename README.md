@@ -8,7 +8,7 @@
 ## 功能與使用說明
 - 1.選擇月份並輸入想取得的模組數量
 - 2.按下確認，等待進度條跑完即可
-- 3.打開目錄下的mods.html即可察看結果
+- 3.打開生成的mods.html即可察看結果
 
 ![image](https://user-images.githubusercontent.com/37009584/139248701-714adfbc-e2fd-4b32-bed8-a98bfc2376da.png)
 
