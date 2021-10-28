@@ -1,4 +1,4 @@
-語言(Language): 中文繁體 | [English](https://github.com/dada909090/MCPEDL-TOP/blob/main/README_en.md)
+語言(Language): 中文繁體 | [English](https://github.com/dada909090/MCPEDL-TOP/blob/main/README_En.md)
 # 一個有GUI的MCPEDL月份排行爬蟲！
 ![image](https://user-images.githubusercontent.com/37009584/139248063-4dd337b4-12ff-43b5-ac30-6943db3fb5d6.png)
 
